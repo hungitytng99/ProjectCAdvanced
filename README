@@ -1,0 +1,15 @@
+-- GROUP ICT01
+-- MEMBER:
++ Trần Mạnh Hùng 20176775
++ Lê Huy Văn 20176906
++ Nguyễn Quang Anh 20176884
+-- Run code:
+Dat tat ca thu muc trong file zip vao cung 1 folder va chay lenh sau tren terminal:
+gcc miniProject.c -Lbt-5.0.0/lib -lbt -Ibt-5.0.0/inc
+./a.out
+-- Link su lieu tao san: https://drive.google.com/open?id=1HZLg7mS29WUx8twnclTO2BCMuxLD_YaP
+(Link co the hong.Ban co the tao no dua tren file dict.txt)
+-- Quan trong:
+ Thay cong cho nhom em moi ban 1 diem vi nop som nhe!
+ Cam on thay ! 
+ From ICT01 with love <3
